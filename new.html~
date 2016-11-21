@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Ganga</title>
+</head>
+<body>
+<table>
+<tr>
+<td>Head</td>
+</tr>
+<tr>
+<td><button>Login</button></td>
+<td><button>Register</button></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
+<td><img src="river.png"></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+All rights reserved &copy;2016
+</td>
+</tr>
+</table>
+</body>
+</html>
